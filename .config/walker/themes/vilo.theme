@@ -1,0 +1,11 @@
+# Walker vilo theme
+[colors]
+background=#1d1f21
+foreground=#c5c8c6
+accent1=#81a2be
+accent2=#b5bd68
+accent3=#cc6666
+accent4=#f0c674
+
+[general]
+theme_name=vilo
