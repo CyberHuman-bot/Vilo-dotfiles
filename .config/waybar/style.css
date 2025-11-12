@@ -1,0 +1,10 @@
+* {
+    font-family: "FiraCode Nerd Font", monospace;
+    background: #1d1f21;
+    color: #c5c8c6;
+}
+
+#clock { color: #81a2be; }
+#pulseaudio { color: #b5bd68; }
+#network { color: #cc6666; }
+#workspace { color: #f0c674; }
