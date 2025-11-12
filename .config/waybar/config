@@ -1,5 +1,9 @@
 {
     "modules-left": ["workspace"],
     "modules-center": ["clock"],
-    "modules-right": ["pulseaudio", "network"]
+    "modules-right": ["pulseaudio", "network"],
+    "layer": "top",
+    "position": "top",
+    "background": "#1d1f21",
+    "foreground": "#c5c8c6"
 }
